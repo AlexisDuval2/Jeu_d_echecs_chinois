@@ -22,6 +22,7 @@ import javax.swing.UIManager;
 import java.awt.FlowLayout;
 
 public class FrameXiangQi extends JFrame {
+	private static final long serialVersionUID = 1L;
 
 	public static final int NB_DE_LIGNES = 10;
 	public static final int NB_DE_COLONNES = 9;
